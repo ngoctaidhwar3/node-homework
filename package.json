@@ -1,0 +1,12 @@
+{
+  "name": "node_homework",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "author": "arthass",
+  "license": "ISC"
+}
